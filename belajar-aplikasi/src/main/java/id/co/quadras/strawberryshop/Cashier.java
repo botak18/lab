@@ -3,7 +3,7 @@ package id.co.quadras.strawberryshop;
 import java.util.List;
 
 /**
- * Created by achmad on 5/8/2014.
+ * Created by Botak18 on 5/8/2014.
  */
 public class Cashier {
     public Double pay(List<Strawberry> strawberries) {
@@ -14,4 +14,3 @@ public class Cashier {
         return grandPrice;
     }
 }
-//botak18

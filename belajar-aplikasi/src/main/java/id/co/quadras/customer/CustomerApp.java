@@ -1,6 +1,5 @@
 package id.co.quadras.customer;
 
-import id.co.quadras.strawberryshop.Cashier;
 import id.co.quadras.strawberryshop.SalePerson;
 import id.co.quadras.strawberryshop.Strawberry;
 
@@ -8,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by achmad on 5/8/2014.
+ * Created by Botak18 on 5/8/2014.
  */
 public class CustomerApp {
     public static void main(String[] args) {
